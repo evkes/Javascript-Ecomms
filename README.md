@@ -1,8 +1,5 @@
-Here's the code at the end of JavaScript Course Lesson 13 (if you need it).
-## Steps
-1. Click Code > Download ZIP <br>
-   <img width="485" alt="Screenshot 2023-07-27 at 11 25 55 AM" src="https://github.com/SuperSimpleDev/javascript-lesson-14-starting-code/assets/70604577/610f8222-1508-46a2-84ec-cc7f7a56fd0d">
-2. Open the downloaded file (this will unzip it)
-3. Optional: move the folder to another place on your computer, rename the folder
+Here is my Javascript version of an ecommerce website. I am losely following supersimpledev, but I am planning on adding routing and rendering with Perl's Mojolicious. 
 
-That's it! Now you're ready to follow along.
+### Here is what I am learning:
+1. Pure JavaScript, specifically the DOM
+2. I am going to add JQuery
